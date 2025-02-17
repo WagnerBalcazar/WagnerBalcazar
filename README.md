@@ -28,6 +28,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/MariaDB_logo.svg" height="60" alt="MariaDB">
   </div>
 
+  <h3>🖥️ IDEs y Herramientas:</h3>
+  <div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_1.35_icon.svg" height="60" alt="Visual Studio Code">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/NetBeans_Logo.svg" height="60" alt="NetBeans">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Apache_HTTP_server_logo.svg" height="60" alt="Apache">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/IntelliJ_IDEA_Logo.svg" height="60" alt="IntelliJ IDEA">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Arduino_Logo.svg" height="60" alt="Arduino">
+  </div>
+
   <h2>📬 Conéctate conmigo</h2>
   <div align="center">
     <a href="https://github.com/WagnerBalcazar" target="_blank">
@@ -41,3 +50,4 @@
     </a>
   </div>
 </section>
+
