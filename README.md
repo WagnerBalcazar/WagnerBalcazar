@@ -1,41 +1,114 @@
-<section>
-  <h1>👋 ¡Bienvenidos a mi perfil!</h1>
+### Hello World! :yellow_heart:
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200"/>
 
-  <h2>🛠️ Mis Habilidades</h2>
+<hr>
 
-  <h3>🚀 Lenguajes de Programación:</h3>
-  <div align="center">
-    <img src="assets/images/java.png" height="60" alt="Java">
-    <img src="assets/images/python.png" height="60" alt="Python">
-    <img src="assets/images/javascript.png" height="60" alt="JavaScript">
-    <img src="assets/images/php.png" height="60" alt="PHP">
-    <img src="assets/images/c.png" height="60" alt="C">
-    <img src="assets/images/c-plus-plus.png" height="60" alt="C++">
-  </div>
+## My Skills :computer:
 
-  <h3>🌐 Desarrollo Web:</h3>
-  <div align="center">
-    <img src="assets/images/html-5.png" height="60" alt="HTML5">
-    <img src="assets/images/css3.png" height="60" alt="CSS3">
-    <img src="assets/images/flask.png" height="60" alt="Flask">
-    <img src="assets/images/sass.png" height="60" alt="SASS">
-  </div>
+- **Programming Languages**
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="50%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+    </td>
+    <td align="center" width="50%">
+      <img height="80px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+    </td>
+  </tr>
+</tbody>
+</table>
 
-  <h3>🛢️ Bases de Datos:</h3>
-  <div align="center">
-    <img src="assets/images/postgresql.png" height="60" alt="PostgreSQL">
-    <img src="assets/images/mysql.png" height="60" alt="MySQL">
-    <img src="assets/images/mariadb.png" height="60" alt="MariaDB">
-  </div>
+- **Web Development**
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+    </td>
+    <td align="center" width="33%">
+      <img height="70px" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+    </td>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+    </td>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+    </td>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+    </td>
+  </tr>
+</tbody>
+</table>
 
-  <h3>🖥️ IDEs y Herramientas:</h3>
-  <div align="center">
-    <img src="assets/images/visual-studio-code-2019.png" height="60" alt="Visual Studio Code">
-    <img src="assets/images/netbeans.png" height="60" alt="NetBeans">
-    <img src="assets/images/apache.png" height="60" alt="Apache">
-    <img src="assets/images/intellij.png" height="60" alt="IntelliJ IDEA">
-    <img src="assets/images/arduino.png" height="60" alt="Arduino">
-  </div>
+- **IDEs and Tools**
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="20%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Visual_Studio_Code_1.35_icon.svg">
+    </td>
+    <td align="center" width="20%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/NetBeans_Logo.svg">
+    </td>
+    <td align="center" width="20%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/IntelliJ_IDEA_Logo.svg">
+    </td>
+    <td align="center" width="20%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Apache_logo.svg">
+    </td>
+    <td align="center" width="20%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Arduino_Logo_2019.svg">
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<hr>
+
+## Currently Learning :beginner:
+
+- **Data Science**
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+    </td>
+    <td align="center" width="33%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+    </td>
+    <td align="center" width="33%">
+      <img height="80px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
+    </td>
+  </tr>
+</tbody>
+</table>
+
+- **Web Development**
+<table>
+<tbody>
+  <tr>
+    <td align="center" width="100%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<hr>
+
+## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+
+<hr>
 
   <h2>📬 Conéctate conmigo</h2>
   <div align="center">
