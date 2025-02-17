@@ -1,6 +1,7 @@
 # 👋 ¡Bienvenidos a mi perfil!
 
 ![Bienvenidos](https://media.giphy.com/media/l0HlS8tK0aMy0shnS/giphy.gif)
+
 ## 🛠️ Mis Habilidades
 
 ### 🚀 Lenguajes de Programación:
@@ -25,9 +26,12 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/MySQL_logo.svg" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/MariaDB_logo.svg" height="60">
 </div>
+
 ## 📬 Conéctate conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagnerBalcazar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagnerbalcazar047@gmail.com)
+
