@@ -29,7 +29,7 @@
 </div>
 ### 💻 IDEs y Herramientas:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=all" height="60">
+  <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-512x508-l7r642hd.png" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/NetBeans_Logo.svg/1200px-NetBeans_Logo.svg.png" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Visual_Studio_Logo_2019.svg" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="60">
