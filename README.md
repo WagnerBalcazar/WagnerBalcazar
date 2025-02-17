@@ -1,9 +1,9 @@
-# 👋 ¡Bienvenidos a mi perfil!
+ 👋 ¡Bienvenidos a mi perfil!
 
 
-## 🛠️ Mis Habilidades
+🛠️ Mis Habilidades
 
-### 🚀 Lenguajes de Programación:
+🚀 Lenguajes de Programación:
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="60">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="60">
@@ -11,18 +11,12 @@
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" height="60">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIz1uWFQOp4dXTXgQ3xgj5A9r_UOwD0EB9Q&s" height="60">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-K3RoD1LMslo-NM7hONA4VYDyRFvNppOErg&s" height="60">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoD5g4fvqC6ERjBVGfHTG4-VDyDBoZUO79g&s" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="60">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19rs_8RIhYWRuZCpb_-2WbXvwFZuqhTmkYw&s" height="60">
 </div>
 
-### 🌐 Frameworks y Tecnologías:
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Flask_logo.svg" height="60">
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" height="60">
-</div>
 
-### 🛢️ Bases de Datos:
+🛢️ Bases de Datos:
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="60">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="60">
@@ -41,6 +35,11 @@
 </div>
 
 </div>
+ 🌐 Frameworks y Tecnologías:
+<div align="center">
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" height="60">
+</div>
+
 ## 📬 Conéctate conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagnerBalcazar)
