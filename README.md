@@ -9,11 +9,23 @@
 <table>
 <tbody>
   <tr>
-    <td align="center" width="50%">
-      <img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+    <td align="center" width="16%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Java_logo.png"> 
     </td>
-    <td align="center" width="50%">
-      <img height="80px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+    <td align="center" width="16%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_of_the_Python_Programming_Language.svg"> 
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo-JavaScript.png"> 
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/C_logo.svg"> 
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C%2B%2B_Logo.svg"> 
+    </td>
+    <td align="center" width="16%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Php_logo.svg"> 
     </td>
   </tr>
 </tbody>
@@ -51,52 +63,34 @@
 <table>
 <tbody>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Visual_Studio_Code_1.35_icon.svg">
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/NetBeans_Logo.svg">
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/IntelliJ_IDEA_Logo.svg">
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Apache_logo.svg">
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16%">
       <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Arduino_Logo_2019.svg">
     </td>
   </tr>
 </tbody>
 </table>
 
-<hr>
-
-## Currently Learning :beginner:
-
-- **Data Science**
+- **Databases**
 <table>
 <tbody>
   <tr>
-    <td align="center" width="33%">
-      <img height="60px" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+    <td align="center" width="50%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg"> 
     </td>
-    <td align="center" width="33%">
-      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-    </td>
-    <td align="center" width="33%">
-      <img height="80px" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-    </td>
-  </tr>
-</tbody>
-</table>
-
-- **Web Development**
-<table>
-<tbody>
-  <tr>
-    <td align="center" width="100%">
-      <img height="60px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+    <td align="center" width="50%">
+      <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/MariaDB_logo.svg"> 
     </td>
   </tr>
 </tbody>
@@ -109,6 +103,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
 
 <hr>
+
 
   <h2>📬 Conéctate conmigo</h2>
   <div align="center">
