@@ -31,7 +31,7 @@
 <div align="center">
   <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-512x508-l7r642hd.png" height="60">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn59MRZCR_2XoNyMPSpWeCeD65-FSuuC2Hg&s" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Visual_Studio_Logo_2019.svg" height="60">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIjG3G-gvdcRExlkn9KoLtNYRr7Wm_0xzOQ&s" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Apache_HTTP_server_logo.svg" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/GitKraken_logo.svg/1200px-GitKraken_logo.svg.png" height="60">
