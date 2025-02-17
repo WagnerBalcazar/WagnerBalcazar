@@ -52,10 +52,10 @@
   <a href="https://github.com/WagnerBalcazar">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/wagner-fabricio-balcazar-balcazar-73a094316/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:wagnerbalcazar047@gmail.com">
+  <a href="mailto:wagner.balcazar@unl.edu.ec">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
