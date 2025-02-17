@@ -32,11 +32,12 @@
   <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-512x508-l7r642hd.png" height="60">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRn59MRZCR_2XoNyMPSpWeCeD65-FSuuC2Hg&s" height="60">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUIjG3G-gvdcRExlkn9KoLtNYRr7Wm_0xzOQ&s" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Apache_HTTP_server_logo.svg" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/GitKraken_logo.svg/1200px-GitKraken_logo.svg.png" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/PyCharm_Logo.svg" height="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Arduino_Logo.svg" height="60">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPO8V67WvyoUx4vum0RZP6SGcCOS6MHi_-5w&s" height="60">
+  
+  <img src="https://www.liblogo.com/img-logo/ne6903n085-netbeans-logo-netbeans-logo-png-transparent-amp-svg-vector-freebie-supply.png" height="60">
+  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQed5aY1bVrg5eXulAYbE4QcqBvEWF5xaKs3g&s" height="60">
+  
 </div>
 
 </div>
