@@ -5,36 +5,36 @@
 
   <h3>🚀 Lenguajes de Programación:</h3>
   <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Java_logo.png" height="60" alt="Java">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_of_the_Python_Programming_Language.svg" height="60" alt="Python">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo-JavaScript.png" height="60" alt="JavaScript">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Php_logo.svg" height="60" alt="PHP">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/C_logo.svg" height="60" alt="C">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C%2B%2B_Logo.svg" height="60" alt="C++">
+    <img src="assets/images/java.png" height="60" alt="Java">
+    <img src="assets/images/python.png" height="60" alt="Python">
+    <img src="assets/images/javascript.png" height="60" alt="JavaScript">
+    <img src="assets/images/php.png" height="60" alt="PHP">
+    <img src="assets/images/c.png" height="60" alt="C">
+    <img src="assets/images/c-plus-plus.png" height="60" alt="C++">
   </div>
 
   <h3>🌐 Desarrollo Web:</h3>
   <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60" alt="HTML5">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/CSS3_logo.svg" height="60" alt="CSS3">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Flask_logo.svg" height="60" alt="Flask">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/SASS_Logo.svg" height="60" alt="SASS">
+    <img src="assets/images/html-5.png" height="60" alt="HTML5">
+    <img src="assets/images/css3.png" height="60" alt="CSS3">
+    <img src="assets/images/flask.png" height="60" alt="Flask">
+    <img src="assets/images/sass.png" height="60" alt="SASS">
   </div>
 
   <h3>🛢️ Bases de Datos:</h3>
   <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg" height="60" alt="PostgreSQL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/MySQL_logo.svg" height="60" alt="MySQL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/MariaDB_logo.svg" height="60" alt="MariaDB">
+    <img src="assets/images/postgresql.png" height="60" alt="PostgreSQL">
+    <img src="assets/images/mysql.png" height="60" alt="MySQL">
+    <img src="assets/images/mariadb.png" height="60" alt="MariaDB">
   </div>
 
   <h3>🖥️ IDEs y Herramientas:</h3>
   <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_1.35_icon.svg" height="60" alt="Visual Studio Code">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/NetBeans_Logo.svg" height="60" alt="NetBeans">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Apache_HTTP_server_logo.svg" height="60" alt="Apache">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/IntelliJ_IDEA_Logo.svg" height="60" alt="IntelliJ IDEA">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Arduino_Logo.svg" height="60" alt="Arduino">
+    <img src="assets/images/visual-studio-code-2019.png" height="60" alt="Visual Studio Code">
+    <img src="assets/images/netbeans.png" height="60" alt="NetBeans">
+    <img src="assets/images/apache.png" height="60" alt="Apache">
+    <img src="assets/images/intellij.png" height="60" alt="IntelliJ IDEA">
+    <img src="assets/images/arduino.png" height="60" alt="Arduino">
   </div>
 
   <h2>📬 Conéctate conmigo</h2>
@@ -50,4 +50,5 @@
     </a>
   </div>
 </section>
+
 
