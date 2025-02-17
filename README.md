@@ -9,6 +9,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_of_the_Python_Programming_Language.svg" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo-JavaScript.png" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Php_logo.svg" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/C_logo.svg" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C%2B%2B_Logo.svg" height="60">
 </div>
 
 ### 🌐 Desarrollo Web:
