@@ -34,15 +34,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQed5aY1bVrg5eXulAYbE4QcqBvEWF5xaKs3g&s" height="60">
 </div>
 
----
-
-### 🌐 Frameworks y Tecnologías:
-<div align="center">
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" height="60">
-</div>
-
----
-
 ## 📬 Conéctate conmigo
 
 <p align="center">
