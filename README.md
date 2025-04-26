@@ -10,7 +10,7 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="60">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60">
- ">
+
 </div>
 
 ---
