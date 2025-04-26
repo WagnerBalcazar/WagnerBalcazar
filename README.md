@@ -9,11 +9,8 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="60">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="60">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="60">
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" height="60">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIz1uWFQOp4dXTXgQ3xgj5A9r_UOwD0EB9Q&s" height="80">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-K3RoD1LMslo-NM7hONA4VYDyRFvNppOErg&s" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19rs_8RIhYWRuZCpb_-2WbXvwFZuqhTmkYw&s" height="60">
+ ">
 </div>
 
 ---
